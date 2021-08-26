@@ -5,3 +5,5 @@ So I made a craigslist scraper that checks the posted cost against Kelly Blue Bo
 It only records and sends 'good' deals. 
 
 Good deals are found when the ratio between the CL posted asking price divided by the low end of the KBB recommeneded listing price is less than 1. 
+
+![Example Output](CarScrape Output.png)
